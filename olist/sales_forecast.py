@@ -1,6 +1,6 @@
 import joblib
 from pandas import DataFrame
-# from statsmodels.tsa.arima.model import ARIMA
+from statsmodels.tsa.arima.model import ARIMA
 from .olist_utils import *
 
 
